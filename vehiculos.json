@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "placa": "GTB023",
+        "tipo": "carro",
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "placa": "XXT897",
+        "tipo": "carro",
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "placa": "XTR985",
+        "tipo": "carro",
+        "disponible": false
+    },
+    {
+        "id": 4,
+        "placa": "TFR58R",
+        "tipo": "moto",
+        "disponible": true
+    }
+]

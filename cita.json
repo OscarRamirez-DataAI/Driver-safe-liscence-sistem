@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "id_cliente": 1,
+        "id_instructor": 5,
+        "id_vehiculo": 2,
+        "fecha": "2026-12-31",
+        "hora": "13:30",
+        "duracion": 60,
+        "asistencia": null,
+        "observaciones": "",
+        "estado": "programada"
+    },
+    {
+        "id": 2,
+        "id_cliente": 2,
+        "id_instructor": 4,
+        "id_vehiculo": 4,
+        "fecha": "2026-10-18",
+        "hora": "15:24",
+        "duracion": 120,
+        "asistencia": null,
+        "observaciones": "",
+        "estado": "cancelada"
+    }
+]

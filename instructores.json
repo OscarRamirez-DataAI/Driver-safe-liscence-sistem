@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "pablito",
+        "documento": "1025896301",
+        "especialidad": "moto",
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "nombre": "gfvbnhj",
+        "documento": "158921475",
+        "especialidad": "carro",
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "nombre": "juan",
+        "documento": "1234569",
+        "especialidad": "carro",
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "nombre": "OSCAR",
+        "documento": "1234567891",
+        "especialidad": "moto",
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "nombre": "andres",
+        "documento": "1234569878",
+        "especialidad": "carro",
+        "disponible": false
+    },
+    {
+        "id": 6,
+        "nombre": "yeimy",
+        "documento": "52397550",
+        "especialidad": "moto",
+        "disponible": false
+    },
+    {
+        "id": 7,
+        "nombre": "FABIAN",
+        "documento": "1103251878",
+        "especialidad": "carro",
+        "disponible": true
+    },
+    {
+        "nombre": "oscar",
+        "Categoría de licencia (A/B/C): ": "2",
+        "dias_disponibles": "Miercoles,Jueves,Sabado"
+    }
+]

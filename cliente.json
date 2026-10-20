@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "sebitas",
+        "documento": "7896510258",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "id": 2,
+        "nombre": "oscar",
+        "documento": "1031817049",
+        "tipo_vehiculo": "moto"
+    }
+]
