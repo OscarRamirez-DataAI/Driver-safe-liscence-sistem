@@ -66,7 +66,7 @@ def menu_instructores():
         opcion_menu = validar_entero("""
             BIENVENIDO AL MÓDULO DE INSTRUCTORES
 
-            1. Registrar instructor
+            1. Registrar instructores
             2. Listar instructores
             3. Actualizar disponibilidad
             4. Regresar
